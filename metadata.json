@@ -1,0 +1,6 @@
+{
+  "name": "GIGWORK SITE - Freelance Marketplace & Digital Academy",
+  "description": "GIGWORK SITE: Premier freelance services, remote jobs board, digital courses academy, multi-currency payments (M-Pesa, PayPal, Stripe), escrow security, and affiliate platform at www.gigworksite.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

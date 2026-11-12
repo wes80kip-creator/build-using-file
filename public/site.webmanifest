@@ -1,0 +1,17 @@
+{
+  "name": "GIGWORK SITE - Freelance & Remote Jobs",
+  "short_name": "GIGWORK",
+  "start_url": "https://www.gigworksite.com/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Premier freelance marketplace, remote jobs board, digital courses academy, and affiliate rewards platform at www.gigworksite.com.",
+  "icons": [
+    {
+      "src": "/assets/gigwork-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
